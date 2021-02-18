@@ -30,8 +30,9 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [x] List anything else that you can get done to improve the app functionality!
-The login page was customize as shown in the gif. Also the compose logo was change to a more original tweeter feel.
-If the user surpasses the 280 word, the word counting will turn to red letting them know that they've exeeded the amount allowed.
+  - [x] The login page was customize as shown in the gif.
+  - [x] Also the compose logo was change to a more original tweeter feel.
+  - [x] If the user surpasses the 280 word, the word counting will turn to red letting them know that they've exeeded the amount allowed.
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
